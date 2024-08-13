@@ -725,4 +725,4 @@ Does not have to pass w3c
 Repo:
 
 GitHub repository: alx-frontend
-Directory: 0x02-CSS_advad
+Directory: 0x02-CSS_advanced
